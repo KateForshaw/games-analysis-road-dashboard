@@ -1,1 +1,3 @@
-# analysing-amazon-product-reviews
+# This was my second assignment in the module Programming for Data Science & AI. The first task involved analysing Amazon Product reviews on a Virtual Machine with Hive, developing a parallel, distributed software that automatically analysed a dataset containing 400,000 reviews of video games on Amazon. 
+# The following tasks took place on R and R Shiny for UK Road Safety data exploration and visualisation. Initially, I cleaned the road accident data and combined it with its metadata to explore meaningful patterns based on severity, road types, and weather conditions. I joined vehicle data to the accidents and designed an intercative dashboard visualising patterns bewteen vehicle charcateristics and location, severity, time, and weather.
+# The attached files consist of the report for these tasks - amongst which is an appendix containing the Hive code and R outputs - and the R scripts. 
