@@ -24,6 +24,6 @@ This project was the second assignment for the Programming for Data Science & AI
 ## Files
 | File | Description |
 |------|-------------|
-| `CIS4514 coursework 2 report.docx` | Full report covering all three tasks, with an appendix containing the Hive code and R outputs |
+| `CIS4514 coursework 2 report.pdf` | Full report covering all three tasks, with an appendix containing the Hive code and R outputs |
 | `CIS4514 task 2.2.r` | R script for cleaning, joining and exploring the road safety data |
 | `CIS4514 task 2.3.r` | R Shiny script for the interactive road safety dashboard |
